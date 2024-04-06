@@ -16,15 +16,15 @@ Key Performance Indicators (KPIs):
 # Dashboard Structure:
 The dashboard is structured into three main sections:
 
-Summary Dashboard:
+## Summary Dashboard:
 - [x] Contains an overview of key KPIs and performance metrics.
 - [x] Filters available for state, grade, and purpose.
       
-Overview Dashboard:
+## Overview Dashboard:
 - [x] Provides a detailed overview of loan performance and risk assessment.
 - [x] Filters available for selecting measures, state, grade, and distinguishing between good vs bad loans.
       
-Details Dashboard:
+## Details Dashboard:
 - [x] Offers granular insights into loan data, including individual loan records and performance metrics.
 - [x] Filters available for state, grade, and distinguishing between good vs bad loans.
 
