@@ -13,6 +13,21 @@ Key Performance Indicators (KPIs):
 - [x] Good Loan Applicants: Applicants categorized as "good" based on predefined criteria indicating low default risk.
 - [x] Bad Loan Applicants: Applicants categorized as "bad" based on predefined criteria indicating high default risk.
 
+# Dashboard Structure:
+The dashboard is structured into three main sections:
+
+Summary Dashboard:
+- [x] Contains an overview of key KPIs and performance metrics.
+- [x] Filters available for state, grade, and purpose.
+      
+Overview Dashboard:
+- [x] Provides a detailed overview of loan performance and risk assessment.
+- [x] Filters available for selecting measures, state, grade, and distinguishing between good vs bad loans.
+      
+Details Dashboard:
+- [x] Offers granular insights into loan data, including individual loan records and performance metrics.
+- [x] Filters available for state, grade, and distinguishing between good vs bad loans.
+
 # Tools Used:
 - [x] Power BI: For creating interactive dashboards and visualizations.
 - [x] SQL Server: For querying the loan dataset and extracting relevant information.
