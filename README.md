@@ -23,3 +23,6 @@ Key Performance Indicators (KPIs):
 - [x] loan_data.sql: SQL script containing queries to retrieve and manipulate loan data.
 - [x] Bank_Loan_Dashboard.pbix: Power BI file containing the dashboard visualizations.
 - [x] README.md: This file, providing an overview of the project and instructions for usage.
+
+# Conclusion:
+Analyzing bank loan data is crucial for assessing the performance and risk associated with lending operations. By utilizing Power BI for visualization and SQL Server for data manipulation, this project provides a comprehensive analysis of loan applications and outcomes, enabling stakeholders to make informed decisions regarding loan approvals, risk management, and portfolio optimization.
